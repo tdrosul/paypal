@@ -1,3 +1,0 @@
-ID: [99]
-Page: paypal
-Runing Code: c
